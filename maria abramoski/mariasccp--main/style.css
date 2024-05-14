@@ -3,6 +3,16 @@
     padding: 0;
 }
 
+body
+.poppins-thin {
+    font-family: "Poppins", sans-serif;
+    
+  }
+      
+    
+  
+
+
 .cabecalho {
     background-color: #0000;
     color: black;
@@ -21,3 +31,19 @@
     margin: 0 16px;
     font-size: 24px;
 }
+
+
+
+
+
+
+.corinthians-div-conteúdo {
+  width: 40%;
+}
+ .corinthians-titulo{
+    padding: 24px 0%;
+ }
+
+ .corinthians-imagem {
+   width: 120px;
+     } 
